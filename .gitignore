@@ -1,0 +1,22 @@
+__pycache__
+.NER
+.idea
+#checkpoint/checkpoint_saved.pth
+#checkpoint/checkpoint.pth
+#checkpoint/model_last.pth
+#checkpoint/model_scripted.pt
+Bengali-NER
+
+src/__pycache__
+src/data/__pycache__
+src/model/__pycache__
+
+
+
+
+
+pretrained word2vec
+-----------------------
+GoogleNews-vectors-negative300.bin
+GoogleNews-vectors-negative300.bin.gz
+bn_w2v_model.text

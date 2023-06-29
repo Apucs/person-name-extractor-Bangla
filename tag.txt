@@ -1,0 +1,9 @@
+0:<pad>
+1:O
+2:B-PER
+3:I-PER
+4:TIM
+5:B-ORG
+6:B-LOC
+7:I-ORG
+8:I-LOC
