@@ -124,7 +124,9 @@ To run this project please follow the instructions below:
 > Before start the training we need to process our dataset into the correct format. To do that execute the following command:
 >
 > - __To process the dataset:__
-    `python src/processing.py`  
+    `python src/processing.py`
+>   
+>   Processed data are already given in the `dataset` folder.
 
 > Now we can start training our model. There are two approach that we can use to train.
 > >
