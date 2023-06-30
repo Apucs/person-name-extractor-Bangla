@@ -79,7 +79,7 @@ Details about the folders and files:
 > We have used `SequenceTaggingDataset` from `torchtext.datasets` to define our
 > train, validation and test dataset.
 > > - `SequenceTaggingDataset` defines a dataset for sequence tagging.
-> > - As our each line in our dataset contains a pair of word and tag, it will
+> > - As our each line in our dataset contains a pair of word and tag, it will be
 > > more suitable.  
 >
 > To build our data iterator we have used `BucketIterator` from `torchtext.data`
